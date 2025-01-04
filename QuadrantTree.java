@@ -1,7 +1,6 @@
 /**
  * the quadrant tree 
  * Samantha Murillo Carmona 
- * student number : 251350663
  */
 public class QuadrantTree {
 	
