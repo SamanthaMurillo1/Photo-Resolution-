@@ -2,7 +2,6 @@
 /**
  * Represents a node in a Quadtree structure.
  *  Samantha Murillo Carmona 
- * student number : 251350663
  */
 
  
