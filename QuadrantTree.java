@@ -1,6 +1,6 @@
 /**
  * the quadrant tree 
- * Samantha Murillo Carmona 
+ * Samantha Murillo 
  */
 public class QuadrantTree {
 	
