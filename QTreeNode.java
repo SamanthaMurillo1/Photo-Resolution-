@@ -1,7 +1,7 @@
 
 /**
  * Represents a node in a Quadtree structure.
- *  Samantha Murillo Carmona 
+ *  Samantha Murillo 
  */
 
  
